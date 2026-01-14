@@ -41,7 +41,9 @@ O processo foi construído a partir de um aprendizado contínuo adquirido nas se
 7. Info Context
 
 8. Toques Finais
-## Considerações Finais
+
+   
+## Considerações 
 
 Construir esse projeto me fez ter mais vontade de aprender sobre análise de dados e a construção de Dashboards para utilizar nas empresas.
 

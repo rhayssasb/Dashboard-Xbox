@@ -36,15 +36,14 @@ O processo foi construído a partir de um aprendizado contínuo adquirido nas se
 
 5. Organização e Estilização da Área de Dashboard
 
-## Considerações Finais 
-
-Construir esse projeto me fez ter mais vontade de aprender sobre análise de dados e a construção de Dashboards para utilizar nas empresas.
-
-Com toda certeza esse aprendizado não para por aqui, entretanto , é apenas o começo de um molde nessa futura profissional. 
-
 6. Trabalhando com Big Numbers
 
 7. Info Context
 
 8. Toques Finais
+## Considerações Finais
+
+Construir esse projeto me fez ter mais vontade de aprender sobre análise de dados e a construção de Dashboards para utilizar nas empresas.
+
+Com toda certeza esse aprendizado não para por aqui, entretanto , é apenas o começo de um molde nessa futura profissional. 
 
